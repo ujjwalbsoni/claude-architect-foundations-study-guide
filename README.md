@@ -65,7 +65,7 @@ export ANTHROPIC_API_KEY=sk-ant-...
 ```
 
 Each domain's mini-lab is self-contained. The hands-on code from Day 1 of the
-study plan lives in [`src/agentic_loop.py`](src/agentic_loop.py).
+study plan lives in [`src/agentic_loop.py`](src/agentic_loop.py). Other source code is available in each study sections.
 
 ## Domain weights at a glance
 
